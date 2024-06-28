@@ -1,0 +1,36 @@
+| NRO.LÍNEA | LEXEMA         | TOKEN              |
+|-----------|----------------|--------------------|
+| 10        | int            | palabraReservada   |
+| 10        | esNumero       | identificador      |
+| 10        | (              | carácterPuntuación |
+| 10        | const          | palabraReservad  a |
+| 10        | char           | palabraReservada   |
+| 10        | *              | operador           |
+| 10        | nro            | identificador      |
+| 10        | )              | carácterPuntuación |
+| 11        | {              | carácterPuntuación |
+| 12        | for            | palabraReservada   |
+| 12        | (              | carácterPuntuación |
+| 12        | int            | palabraReservada   |
+| 12        | i              | identificador      |
+| 12        | =              | operador           |
+| 12        | 0              | constante          |
+| 12        | ;              | carácterPuntuación |
+| 12        | nro[i]         | identificador      |
+| 12        | )              | carácterPuntuación |
+| 12        | ;              | carácterPuntuación |
+| 13        | if             | palabraReservada   |
+| 13        | (              | carácterPuntuación |
+| 13        | !              | operador           |
+| 13        | isdigit        | identificador      |
+| 13        | (              | carácterPuntuación |
+| 13        | nro[i]         | identificador      |
+| 13        | )              | carácterPuntuación |
+| 13        | )              | carácterPuntuación |
+| 13        | {              | carácterPuntuación |
+| 14        | return         | palabraReservada   |
+| 14        | 0              | constante          |
+| 15        | }              | carácterPuntuación |
+| 16        | return         | palabraReservada   |
+| 16        | 1              | constante          |
+| 17        | }              | carácterPuntuación |
